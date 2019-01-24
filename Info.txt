@@ -1,3 +1,4 @@
 http://localhost:8080/FitnessTracker/greeting.html
 http://localhost:8080/FitnessTracker/addMinutes.html
+http://localhost:8080/FitnessTracker/addGoal.html
 http://localhost:8080/FitnessTracker/pdfs/helloworld.pdf
